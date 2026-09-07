@@ -3,3 +3,5 @@
 </p>
 
 welcome issues.
+
+Asset and template holder for the welcome-issue onboarding workflow (see `welcomebot`). Currently ships the shared thumbnail only.
